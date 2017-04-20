@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.softwaretest"
+    android:versionCode="100"
+    android:versionName="10.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="20" />
+
+    <application
+        android:name="com.example.softwaretest.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.softwaretest.MainActivity"
+            android:label="自定义输入法" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.softwaretest.InputViewActivity" >
+        </activity>
+
+        <service
+            android:id="@+id/openwnn_chinese"
+            android:name="com.googlecode.openwnn.legacy.OpenWnnZHCN"
+            android:label="中"
+            android:permission="android.permission.BIND_INPUT_METHOD" >
+            <intent-filter>
+                <action android:name="android.view.InputMethod" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.view.im"
+                android:resource="@xml/method_zhcn" />
+        </service>
+
+        <activity android:name="com.googlecode.openwnn.legacy.ZH.CN.UserDictionaryToolsListZHCN" />
+        <activity
+            android:name="com.googlecode.openwnn.legacy.ZH.CN.UserDictionaryToolsEditZHCN"
+            android:label="中文字典" />
+    </application>
+
+</manifest>

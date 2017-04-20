@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/candidateContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/btn_showMore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="更多" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/candidateselected"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:padding="16dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/pinyinInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:padding="16dp"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.0" >
+
+        <GridLayout
+            android:id="@+id/keyboardGrid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:columnCount="5"
+            android:orientation="horizontal"
+            android:rowCount="6"
+            android:useDefaultMargins="true" >
+
+            <Button
+                android:id="@+id/KEY_A"
+                android:text="A" />
+
+            <Button
+                android:id="@+id/KEY_B"
+                android:text="B" />
+
+            <Button
+                android:id="@+id/KEY_C"
+                android:text="C" />
+
+            <Button
+                android:id="@+id/KEY_D"
+                android:text="D" />
+
+            <Button
+                android:id="@+id/KEY_E"
+                android:text="E" />
+
+            <Button
+                android:id="@+id/KEY_F"
+                android:text="F" />
+
+            <Button
+                android:id="@+id/KEY_G"
+                android:text="G" />
+
+            <Button
+                android:id="@+id/KEY_H"
+                android:text="H" />
+
+            <Button
+                android:id="@+id/KEY_I"
+                android:text="I" />
+
+            <Button
+                android:id="@+id/KEY_J"
+                android:text="J" />
+
+            <Button
+                android:id="@+id/KEY_K"
+                android:text="K" />
+
+            <Button
+                android:id="@+id/KEY_L"
+                android:text="L" />
+
+            <Button
+                android:id="@+id/KEY_M"
+                android:text="M" />
+
+            <Button
+                android:id="@+id/KEY_N"
+                android:text="N" />
+
+            <Button
+                android:id="@+id/KEY_O"
+                android:text="O" />
+
+            <Button
+                android:id="@+id/KEY_P"
+                android:text="P" />
+
+            <Button
+                android:id="@+id/KEY_Q"
+                android:text="Q" />
+
+            <Button
+                android:id="@+id/KEY_R"
+                android:text="R" />
+
+            <Button
+                android:id="@+id/KEY_S"
+                android:text="S" />
+
+            <Button
+                android:id="@+id/KEY_T"
+                android:text="T" />
+
+            <Button
+                android:id="@+id/KEY_U"
+                android:text="U" />
+
+            <Button
+                android:id="@+id/KEY_V"
+                android:text="V" />
+
+            <Button
+                android:id="@+id/KEY_W"
+                android:text="W" />
+
+            <Button
+                android:id="@+id/KEY_X"
+                android:text="X" />
+
+            <Button
+                android:id="@+id/KEY_Y"
+                android:text="Y" />
+
+            <Button
+                android:id="@+id/KEY_Z"
+                android:text="Z" />
+
+            <Button
+                android:id="@+id/KEY_DEL"
+                android:layout_columnSpan="2"
+                android:layout_gravity="fill"
+                android:text="del" />
+
+            <Button
+                android:id="@+id/KEY_SPACE"
+                android:layout_columnSpan="2"
+                android:layout_gravity="fill"
+                android:text="空格" />
+        </GridLayout>
+
+        <com.googlecode.openwnn.legacy.handwritingboard.HandWritingBoardLayout
+            android:id="@+id/handwrtingboard"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#ffffff" />
+
+        <Button
+            android:id="@+id/clean"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:text="擦除重写" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/selectkeyboard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="字母" />
+
+        <Button
+            android:id="@+id/selecthandwriting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="手写" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_caps.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_caps.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_mode_panel_kbd_12key_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_mode_panel_kbd_12key_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_period_comma_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_period_comma_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana0_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana0_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_space.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_space.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana1_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana1_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_en_mode_change_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_en_mode_change_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_cn_mode_half_alpha.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_cn_mode_half_alpha.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_simple.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_simple.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana2_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana2_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana3_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana3_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/dialog_bubble.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/dialog_bubble.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_jp_mode_change_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_jp_mode_change_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_en_mode_half_num.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_en_mode_half_num.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_jp_mode_half_kata.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_jp_mode_half_kata.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha0.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha0.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_del_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_del_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_jp_mode_half_num.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_jp_mode_half_num.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_jp_mode_full_alpha.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_jp_mode_full_alpha.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana4.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana4.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/dialog_bubble_moji.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/dialog_bubble_moji.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha2.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha2.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana3.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana3.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_qwerty_shift.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_qwerty_shift.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_metal_p.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_metal_p.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana6_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana6_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_en_mode_half_alpha.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_en_mode_half_alpha.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/cand_up.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/cand_up.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana8_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana8_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/tutorial_12key_space_jp.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/tutorial_12key_space_jp.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana4_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana4_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_metal_psftoff.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_metal_psftoff.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_period_comma.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_period_comma.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/immodeic_hiragana.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/immodeic_hiragana.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/immodeic_chinese.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/immodeic_chinese.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_ten_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_ten_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana6.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana6.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_left_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_left_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_simple_psfton.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_simple_psfton.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_mode_panel_kbd_12key.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_mode_panel_kbd_12key.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/cand_down_press.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/cand_down_press.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/immodeic_half_alphabet.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/immodeic_half_alphabet.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana7.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana7.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_right.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_right.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/word_half_space.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/word_half_space.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/tutorial_12key_enter.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/tutorial_12key_enter.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/candidate.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/candidate.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha3.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha3.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_cn_mode_change_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_cn_mode_change_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_metal_sftoff.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_metal_sftoff.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_space_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_space_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana1.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana1.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/word_full_space.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/word_full_space.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_cn_mode_half_num.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_cn_mode_half_num.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_enter_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_enter_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_simple_psftoff.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_simple_psftoff.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana5_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana5_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_enter_jp.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_enter_jp.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana9_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana9_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/dialog_bubble_symbol.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/dialog_bubble_symbol.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_reverse.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_reverse.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_left.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_left.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/immodeic_half_number.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/immodeic_half_number.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/cand_back_normal.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/cand_back_normal.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/dialog_bubble_undo.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/dialog_bubble_undo.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha6_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha6_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/tutorial_back.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/tutorial_back.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_caps_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_caps_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha5_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha5_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha7_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha7_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha4_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha4_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha8_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha8_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_space_conv_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_space_conv_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha6.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha6.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/cand_down.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/cand_down.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_simple_bg.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_simple_bg.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_jp_mode_full_num.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_jp_mode_full_num.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha9_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha9_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha2_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha2_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha3_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha3_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha1_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha1_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha7.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha7.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha0_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha0_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/tutorial_12key_right.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/tutorial_12key_right.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_jp_mode_full_kata.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_jp_mode_full_kata.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_simple_p.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_simple_p.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/cand_up_press.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/cand_up_press.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_reverse_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_reverse_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_right_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_right_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana0.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana0.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/immodeic_full_alphabet.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/immodeic_full_alphabet.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_metal_def.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_metal_def.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_metal_psfton.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_metal_psfton.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/tutorial_12key_mode.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/tutorial_12key_mode.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/cand_back_pressed.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/cand_back_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_jp_mode_half_alpha.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_jp_mode_half_alpha.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_space_conv.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_space_conv.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha8.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha8.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha5.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha5.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_cn_mode_pinyin.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_cn_mode_pinyin.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_jp_mode_hira.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_jp_mode_hira.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_simple_sfton.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_simple_sfton.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_dakuten.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_dakuten.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_enter.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_enter.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_mode_panel_kbd_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_mode_panel_kbd_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_enter_jp_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_enter_jp_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_eisukana.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_eisukana.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_metal.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_metal.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_metal_sfton.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_metal_sfton.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/tutorial_12key_toggle.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/tutorial_12key_toggle.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha4.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha4.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_del.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_del.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_dakuten_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_dakuten_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana8.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana8.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_eisukana_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_eisukana_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/immodeic_half_kana.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/immodeic_half_kana.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/tutorial_12key_left.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/tutorial_12key_left.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_cn_mode_full_num.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_cn_mode_full_num.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_simple_def.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_simple_def.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_mode_panel_kbd.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_mode_panel_kbd.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/immodeic_full_kana.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/immodeic_full_kana.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana7_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana7_b.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/immodeic_full_number.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/immodeic_full_number.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/cand_back.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/cand_back.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana5.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana5.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_ten.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_ten.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_hiragana2.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_hiragana2.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/keybg_simple_sftoff.9.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/keybg_simple_sftoff.9.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_12key_alpha1.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_12key_alpha1.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/tutorial_12key_key.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/tutorial_12key_key.png"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/drawable/key_qwerty_shift_b.png",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/drawable/key_qwerty_shift_b.png"
+    }
+]

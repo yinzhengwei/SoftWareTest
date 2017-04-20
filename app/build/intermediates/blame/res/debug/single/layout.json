@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/keyboard_default_sub.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/keyboard_default_sub.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/candidate_scale_up.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/candidate_scale_up.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/keyboard_android_default.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/keyboard_android_default.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/candidates.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/candidates.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_list_header_zhcn.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/user_dictionary_tools_list_header_zhcn.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_edit_header.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/user_dictionary_tools_edit_header.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_list_header_ja.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/user_dictionary_tools_list_header_ja.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_list_header.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/user_dictionary_tools_list_header.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/keyboard_metal.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/keyboard_metal.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_edit.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/user_dictionary_tools_edit.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/keyboard_simple.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/keyboard_simple.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/keyboard_default_main.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/keyboard_default_main.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/bubble_text.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/bubble_text.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_list.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/user_dictionary_tools_list.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/layout/input_view.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/layout/input_view.xml"
+    }
+]

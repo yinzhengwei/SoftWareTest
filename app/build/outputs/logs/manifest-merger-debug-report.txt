@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:5:5-31
+		INJECTED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:11:5-46:19
+	android:allowBackup
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:12:9-64
+activity#com.example.softwaretest.MainActivity
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:18:13-35
+	android:name
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:17:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.softwaretest.InputViewActivity
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:25:19-76
+service#com.googlecode.openwnn.legacy.OpenWnnZHCN
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:28:9-40:19
+	android:label
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:31:13-30
+	android:id
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:29:13-46
+	android:permission
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:32:13-70
+	android:name
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:30:13-69
+intent-filter#android.view.InputMethod
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:33:13-35:29
+action#android.view.InputMethod
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:34:17-67
+	android:name
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:34:25-64
+meta-data#android.view.im
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:37:13-39:55
+	android:resource
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:39:17-52
+	android:name
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:38:17-47
+activity#com.googlecode.openwnn.legacy.ZH.CN.UserDictionaryToolsListZHCN
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:42:9-100
+	android:name
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:42:19-97
+activity#com.googlecode.openwnn.legacy.ZH.CN.UserDictionaryToolsEditZHCN
+ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:43:9-45:36
+	android:label
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:45:13-33
+	android:name
+		ADDED from /Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/AndroidManifest.xml:44:13-91

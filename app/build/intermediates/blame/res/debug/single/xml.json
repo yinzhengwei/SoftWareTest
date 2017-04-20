@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_alphabet_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_alphabet_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_half_alphabet_input.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_half_alphabet_input.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_cn_switch_key.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_cn_switch_key.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/openwnn_pref_en.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/openwnn_pref_en.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_half_alphabet.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_half_alphabet.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_symbols_shift_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_symbols_shift_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_symbols_shift_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_symbols_shift_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_cn_full_symbols.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_cn_full_symbols.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_cn_qwerty_pinyin_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_cn_qwerty_pinyin_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_symbols.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_symbols.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/symbols_latin1_list.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/symbols_latin1_list.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_cn_half_symbols.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_cn_half_symbols.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_symbols_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_symbols_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/openwnn_pref_ja.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/openwnn_pref_ja.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_alphabet.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_alphabet.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_switch_key_qwerty_jp.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_switch_key_qwerty_jp.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/openwnn_pref_zhcn.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/openwnn_pref_zhcn.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_en_switch_key.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_en_switch_key.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_symbols.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_symbols.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_symbols_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_symbols_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/symbols_china_list.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/symbols_china_list.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_cn_qwerty.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_cn_qwerty.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_full_katakana.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_full_katakana.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_katakana_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_katakana_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_cn_half_symbols_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_cn_half_symbols_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_half_katakana_input.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_half_katakana_input.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_alphabet_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_alphabet_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_cn_full_symbols_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_cn_full_symbols_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_full_alphabet_input.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_full_alphabet_input.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_shift_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_shift_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_half_num.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_half_num.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_symbols_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_symbols_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_alphabet_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_alphabet_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/symbols_latin2_list.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/symbols_latin2_list.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_alphabet.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_alphabet.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_en_symbols_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_en_symbols_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/symbols_emotion_list.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/symbols_emotion_list.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_en_qwerty.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_en_qwerty.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_katakana.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_katakana.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/symbols_japan_list.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/symbols_japan_list.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_katakana_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_katakana_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_katakana.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_katakana.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_katakana_shift_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_katakana_shift_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_half_katakana.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_half_katakana.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_katakana_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_katakana_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_symbols_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_symbols_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_full_alphabet.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_full_alphabet.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/symbols_latin12_list.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/symbols_latin12_list.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12keyjp_input.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12keyjp_input.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12keyjp.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12keyjp.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_alphabet_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_alphabet_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_alphabet_shift_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_alphabet_shift_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_katakana_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_katakana_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_full_alphabet_shift_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_full_alphabet_shift_landscape.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_switch_key_jp.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_switch_key_jp.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/method_zhcn.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/method_zhcn.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_cn_qwerty_pinyin.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_cn_qwerty_pinyin.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_full_num.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_full_num.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_shift.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_shift.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_phone.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_phone.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/method_en.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/method_en.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/method_ja.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/method_ja.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_12key_full_katakana_input.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_12key_full_katakana_input.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/default_en_symbols.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/default_en_symbols.xml"
+    },
+    {
+        "merged": "/Users/ethank/Documents/gerrit/SoftWareTest/app/build/intermediates/res/merged/debug/xml/keyboard_qwerty_jp_half_katakana_shift_landscape.xml",
+        "source": "/Users/ethank/Documents/gerrit/SoftWareTest/app/src/main/res/xml/keyboard_qwerty_jp_half_katakana_shift_landscape.xml"
+    }
+]

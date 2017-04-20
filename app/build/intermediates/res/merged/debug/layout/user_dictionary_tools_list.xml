@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2008,2009  OMRON SOFTWARE Co., Ltd.
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="5sp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/user_dictionary_left_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/user_dictionary_prev_button" />
+
+        <TextView
+            android:id="@+id/user_dictionary_position_indicator"
+            android:layout_width="100sp"
+            android:layout_height="wrap_content"
+            android:gravity="center" />
+
+        <Button
+            android:id="@+id/user_dictionary_right_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/user_dictionary_next_button" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:orientation="horizontal"
+        android:padding="1dip" >
+
+        <TextView
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="1dip"
+            android:layout_marginLeft="0dip"
+            android:layout_marginRight="1dip"
+            android:layout_marginTop="1dip"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:focusable="false"
+            android:text="@string/user_dictionary_title_read"
+            android:textColor="?android:attr/textColorTertiary"
+            android:textSize="16dip" />
+
+        <TextView
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="1dip"
+            android:layout_marginLeft="1dip"
+            android:layout_marginRight="0dip"
+            android:layout_marginTop="1dip"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:focusable="false"
+            android:text="@string/user_dictionary_title_candidate"
+            android:textColor="?android:attr/textColorTertiary"
+            android:textSize="16dip" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/user_dictionary_tools_scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TableLayout
+            android:id="@+id/user_dictionary_tools_table"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="1dip" >
+        </TableLayout>
+    </ScrollView>
+
+</LinearLayout>
