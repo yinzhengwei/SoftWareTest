@@ -3,3 +3,7 @@ Demo contains three kinds of Chinese, English, Japanese, in the database, there 
 
 Demo中包含中文，英文，日文三类，在资源库中有对应的三类so数据库包。需要注意的地方是manifest.xml中关于OpenWnnZHCN服务的注册中，声明了label为“中”文，
 所以这时候你设备的系统设置中输入法的默认选项会变为“中”的选项，所以这个标签是否有需要，根据你自己的需要而定！
+
+支持手写和拼音检索！
+
+
